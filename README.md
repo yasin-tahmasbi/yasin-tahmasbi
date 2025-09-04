@@ -1,16 +1,23 @@
-## Hi there 👋
+👋 Hi, I'm Yasin | سلام! من یاسین‌ام
 
-<!--
-**yasin-tahmasbi/yasin-tahmasbi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+New to frontend development — learning step by step and building small projects.
 
-Here are some ideas to get you started:
+تازه‌کار فرانت‌اند هستم — قدم‌به‌قدم یاد می‌گیرم و پروژه‌های کوچک می‌سازم.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧑‍💻 About Me | دربارهٔ من
+
+🎯 هدف فعلی: تقویت مهارت‌های HTML, CSS, JavaScript, Tailwind, React و ساخت پروژه‌های کاربردی
+
+🔭 در حال کار روی: کلون صفحات ساده، فرم‌ها و لندینگ‌پیج‌ها
+
+📚 برنامهٔ یادگیری: هر هفته یک پروژهٔ کوچک + مرور مبانی
+
+🤝 به‌دنبال همکاری روی پروژه‌های فرانت‌اند مبتدی تا متوسط
+
+🛠 Tech Stack | ابزارها و مهارت‌ها
+
+Languages: HTML, CSS, JavaScript
+
+Frameworks & UI: Tailwind
+
+Tools: Git, GitHub, VS Code, Figma (basic)
