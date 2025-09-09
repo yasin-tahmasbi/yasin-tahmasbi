@@ -8,6 +8,8 @@
 
 <p align="left">I’m currently studying at PARNIAN Institute<br><br>💬 Ask me about HTML , CSS<br><br>📫 How to reach me yasintahmasb@yahoo.com<br><br>⚡ Fact Frontend is more than visuals; it’s the experience users take away.</p>
 
+<hr>
+
 ###
 
 <h3 align="left">Contact Me</h3>
@@ -25,6 +27,8 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="47" height="27" alt="telegram logo"  />
   </a>
 </div>
+
+<hr>
 
 ###
 
@@ -52,6 +56,8 @@
 
 ###
 
+<hr>
+
 <h3 align="left">GitHub Stats</h3>
 
 ###
@@ -72,6 +78,8 @@
   <img src="https://streak-stats.demolab.com?user=yasin-tahmasbi&locale=en&mode=daily&theme=default&hide_border=false&border_radius=5&date_format=%5BY%20%5DM%20j&order=3" height="150" alt="streak graph"  />
 </div>
 
+<hr>
+
 ###
 
 <h3 align="left">GitHub Trophies</h3>
@@ -81,6 +89,8 @@
 <div align="left">
   <img src="https://github-profile-trophy.vercel.app?username=yasin-tahmasbi&theme=flat&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
+
+<hr>
 
 ###
 
