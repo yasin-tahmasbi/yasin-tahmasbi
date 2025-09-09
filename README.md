@@ -52,6 +52,14 @@
 
 ###
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yasin-tahmasbi/yasin-tahmasbi/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yasin-tahmasbi/yasin-tahmasbi/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/yasin-tahmasbi/yasin-tahmasbi/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
 <h3 align="left">GitHub Stats</h3>
 
 ###
@@ -91,9 +99,5 @@
 <div align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yasin-tahmasbi&radius=16&theme=github-light&area=true&order=5&point=57a5ff&title_color=57a5ff&color=57a5ff&line=57a5ff&area_color=57a5ff" height="300" alt="activity-graph graph"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/yasin-tahmasbi/yasin-tahmasbi/output/snake.svg" alt="Snake animation" />
 
 ###
