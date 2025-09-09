@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **HTML , CSS**
 
-- 📫 How to reach me **yasintahmasb@gmail.com**
+- 📫 How to reach me **yasintahmasb@yahoo.com**
 
 - ⚡ Fact **Frontend is more than visuals; it’s the experience users take away.**
 
