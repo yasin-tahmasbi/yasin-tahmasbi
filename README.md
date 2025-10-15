@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I’m currently studying at PARNIAN Institute<br><br>💬 Ask me about HTML , CSS<br><br>📫 How to reach me yasintahmasb@yahoo.com<br><br>⚡ Fact Frontend is more than visuals; it’s the experience users take away.</p>
+<p align="left">I’m currently studying at PARNIAN Institute<br><br>📫 How to reach me yasintahmasb@yahoo.com<br><br>⚡ Fact Frontend is more than visuals; it’s the experience users take away.</p>
 
 <hr>
 
